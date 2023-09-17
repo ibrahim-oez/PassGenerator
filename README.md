@@ -25,14 +25,8 @@ java -jar GiveAnyName.jar
 - Das generierte Passwort wird angezeigt.
 - Du kannst das Programm erneut ausführen, um weitere Passwörter zu generieren.
 
-## Warum ist das eine gute Übung?
 
-Dieses Projekt bietet eine großartige Möglichkeit, deine Kotlin-Fähigkeiten zu üben und zu erweitern. Hier sind einige Gründe, warum es eine gute Übung ist:
-
-- **Zufall und Datenverarbeitung:** Du lernst, wie du zufällige Daten generieren und verarbeiten kannst, um nützliche Anwendungen wie einen Passwortgenerator zu erstellen.
-- **Benutzereingabe:** Du lernst, wie du Benutzereingaben in der Befehlszeile verarbeiten kannst, um die Interaktivität deiner Anwendung zu erhöhen.
-- **Schleifen und Bedingungen:** Du vertiefst dein Verständnis für Schleifen und bedingte Anweisungen, um die gewünschte Funktionalität zu implementieren.
-- **Objektorientierte Programmierung:** Du siehst, wie du Klassen und Objekte in Kotlin erstellst, um Code zu organisieren und wiederzuverwenden.
+-Dieses Projekt bietet eine großartige Möglichkeit, deine Kotlin-Fähigkeiten zu üben und zu erweitern.
 
 ---
 
